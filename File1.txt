@@ -3,3 +3,7 @@ qwe
 qwe
 qwe
 we
+apple
+mango
+orange
+banana
